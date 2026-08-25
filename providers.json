@@ -138,12 +138,6 @@
     "defaultState": "AL"
   },
   {
-    "value": "Other",
-    "label": "Other",
-    "angeltrack": "",
-    "defaultState": ""
-  },
-  {
     "value": "Pulse Ambulance",
     "label": "Pulse Ambulance",
     "angeltrack": "https://pulseamb.angeltracksoftware.com",
@@ -204,9 +198,9 @@
     "defaultState": "GA"
   },
   {
-    "value": "ZZ Write Test (delete me)",
-    "label": "ZZ Write Test (delete me)",
-    "angeltrack": "https://zzwritetest.angeltracksoftware.com",
-    "defaultState": "GA"
+    "value": "Other",
+    "label": "Other",
+    "angeltrack": "",
+    "defaultState": ""
   }
 ]
