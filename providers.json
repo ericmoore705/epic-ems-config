@@ -1,0 +1,206 @@
+[
+  {
+    "value": "1st Care",
+    "label": "1st Care",
+    "angeltrack": "https://1stcare.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "A Plus Ambulance",
+    "label": "A Plus Ambulance",
+    "angeltrack": "https://aplus.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "ACE Med Trans",
+    "label": "ACE Med Trans",
+    "angeltrack": "https://acemedtrans.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "AEC Medical Transport (DE)",
+    "label": "AEC Medical Transport (DE)",
+    "angeltrack": "https://aecmtrrde.angeltracksoftware.com",
+    "defaultState": "DE"
+  },
+  {
+    "value": "AEC Medical Transport (VA)",
+    "label": "AEC Medical Transport (VA)",
+    "angeltrack": "https://aec.angeltracksoftware.com",
+    "defaultState": "VA"
+  },
+  {
+    "value": "American EMS",
+    "label": "American EMS",
+    "angeltrack": "https://aemsga.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "Arrive",
+    "label": "Arrive",
+    "angeltrack": "https://arrivedirect.angeltracksoftware.com",
+    "defaultState": ""
+  },
+  {
+    "value": "Coastline Ambulance",
+    "label": "Coastline Ambulance",
+    "angeltrack": "https://coastline.angeltracksoftware.com",
+    "defaultState": "SC"
+  },
+  {
+    "value": "Compassionate EMS",
+    "label": "Compassionate EMS",
+    "angeltrack": "https://compassionateems.angeltracksoftware.com",
+    "defaultState": "TX"
+  },
+  {
+    "value": "Delta EMS",
+    "label": "Delta EMS",
+    "angeltrack": "https://deltaems.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "Dothan Ambulance",
+    "label": "Dothan Ambulance",
+    "angeltrack": "https://dothanambulance.angeltracksoftware.com",
+    "defaultState": "AL"
+  },
+  {
+    "value": "Frontline EMS",
+    "label": "Frontline EMS",
+    "angeltrack": "https://frontlineems.angeltracksoftware.com",
+    "defaultState": "CA"
+  },
+  {
+    "value": "GEMS",
+    "label": "GEMS",
+    "angeltrack": "https://gems.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "LifeCare",
+    "label": "LifeCare",
+    "angeltrack": "https://lifecarega.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "Lynch Ambulance",
+    "label": "Lynch Ambulance",
+    "angeltrack": "https://lynchems.angeltracksoftware.com",
+    "defaultState": "CA"
+  },
+  {
+    "value": "Marksmen",
+    "label": "Marksmen",
+    "angeltrack": "https://marksmen.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "Mauran",
+    "label": "Mauran",
+    "angeltrack": "",
+    "defaultState": ""
+  },
+  {
+    "value": "Metacare",
+    "label": "Metacare",
+    "angeltrack": "https://metacare.angeltracksoftware.com",
+    "defaultState": "TX"
+  },
+  {
+    "value": "Metro Health - Central",
+    "label": "Metro Health - Central",
+    "angeltrack": "https://metrohealthcentral.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "Metro Health - East",
+    "label": "Metro Health - East",
+    "angeltrack": "https://metrohealthga.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "Mountain State EMS",
+    "label": "Mountain State EMS",
+    "angeltrack": "https://mse.angeltracksoftware.com",
+    "defaultState": "WV"
+  },
+  {
+    "value": "NELA EMS",
+    "label": "NELA EMS",
+    "angeltrack": "https://nelaems.angeltracksoftware.com",
+    "defaultState": "LA"
+  },
+  {
+    "value": "Newmans",
+    "label": "Newmans",
+    "angeltrack": "https://newmans.angeltracksoftware.com",
+    "defaultState": "AL"
+  },
+  {
+    "value": "Pulse Ambulance",
+    "label": "Pulse Ambulance",
+    "angeltrack": "https://pulseamb.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "Ram Ambulance",
+    "label": "Ram Ambulance",
+    "angeltrack": "https://ram.angeltracksoftware.com",
+    "defaultState": "MA"
+  },
+  {
+    "value": "Randolph",
+    "label": "Randolph",
+    "angeltrack": "https://randolphems.angeltracksoftware.com",
+    "defaultState": ""
+  },
+  {
+    "value": "Regional Med EMS",
+    "label": "Regional Med EMS",
+    "angeltrack": "https://regmedems.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "Southern Ambulance",
+    "label": "Southern Ambulance",
+    "angeltrack": "https://southern1.angeltracksoftware.com",
+    "defaultState": "AL"
+  },
+  {
+    "value": "Strategic EMS",
+    "label": "Strategic EMS",
+    "angeltrack": "https://strategicems.angeltracksoftware.com",
+    "defaultState": "OH"
+  },
+  {
+    "value": "Transcare",
+    "label": "Transcare",
+    "angeltrack": "https://transcare.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "Tricare",
+    "label": "Tricare",
+    "angeltrack": "https://tricare.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "Trust Ambulance",
+    "label": "Trust Ambulance",
+    "angeltrack": "https://trust.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "US Medics",
+    "label": "US Medics",
+    "angeltrack": "https://usmedics.angeltracksoftware.com",
+    "defaultState": "GA"
+  },
+  {
+    "value": "Other",
+    "label": "Other",
+    "angeltrack": "",
+    "defaultState": ""
+  }
+]
