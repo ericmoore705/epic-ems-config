@@ -54,12 +54,6 @@
     "label": "Compassionate EMS"
   },
   {
-    "value": "Delta EMS",
-    "angeltrack": "https://deltaems.angeltracksoftware.com",
-    "defaultState": "GA",
-    "label": "Delta EMS"
-  },
-  {
     "value": "Dothan Ambulance",
     "angeltrack": "https://dothanambulance.angeltracksoftware.com",
     "defaultState": "AL",
