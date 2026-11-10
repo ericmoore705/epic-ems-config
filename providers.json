@@ -77,6 +77,13 @@
     "label": "Dothan Ambulance"
   },
   {
+    "value": "Epic EMS",
+    "angeltrack": "",
+    "defaultState": "GA",
+    "stripe_account": "",
+    "label": "Epic EMS"
+  },
+  {
     "value": "Frontline EMS",
     "angeltrack": "https://frontlineems.angeltracksoftware.com",
     "defaultState": "CA",
