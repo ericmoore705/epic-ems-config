@@ -78,7 +78,7 @@
   },
   {
     "value": "Epic EMS",
-    "angeltrack": "",
+    "angeltrack": "https://epicems.com",
     "defaultState": "GA",
     "stripe_account": "",
     "label": "Epic EMS"
@@ -257,5 +257,12 @@
     "defaultState": "GA",
     "stripe_account": "",
     "label": "US Medics"
+  },
+  {
+    "value": "Med Trak",
+    "angeltrack": "https://medtrak.angeltracksoftware.com",
+    "defaultState": "",
+    "stripe_account": "",
+    "label": "Med Trak"
   }
 ]
